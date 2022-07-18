@@ -10,6 +10,6 @@ A Software Engineer Student at Holberton School
 
 Skills
 =============
-![](https://cdn-icons-png.flaticon.com/512/732/732212.png)
+![](https://icon-library.com/images/html-icon/html-icon-1.jpg)
 
 [![](https://w7.pngwing.com/pngs/280/352/png-transparent-computer-icons-github-social-media-github-mammal-cat-like-mammal-carnivoran.png)](https://github.com/TEOACEVEDO)
