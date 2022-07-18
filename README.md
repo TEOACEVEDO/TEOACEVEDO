@@ -13,3 +13,4 @@ Skills
 ![](https://icon-library.com/images/html-icon/html-icon-1.jpg)
 
 [![](https://cdn.iconscout.com/icon/free/png-256/github-3215409-2673827.png)](https://github.com/TEOACEVEDO)
+[![](https://www.linkedin.com/in/mateo-acevedo-v%C3%A9lez-b59833231/)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png)
