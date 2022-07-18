@@ -14,5 +14,5 @@ Skills
 
 [![](https://cdn.iconscout.com/icon/free/png-256/github-3215409-2673827.png)](https://github.com/TEOACEVEDO)
 
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png)](https://github.com/TEOACEVEDO)
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png)](https://www.linkedin.com/in/mateo-acevedo-v%C3%A9lez-b59833231/)
 
