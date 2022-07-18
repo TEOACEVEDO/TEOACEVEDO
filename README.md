@@ -11,7 +11,7 @@ A Software Engineer Student at Holberton School
 Skills
 =============
 
-![html-icon-1](https://user-images.githubusercontent.com/98199846/179632051-6324168e-658c-4729-a209-38630f948b04.png)
+![html-icon-1](https://user-images.githubusercontent.com/98199846/179632051-6324168e-658c-4729-a209-38630f948b04.png) ![linkedin](https://user-images.githubusercontent.com/98199846/179632146-f74225d0-92f1-4f9e-a298-3f4b5a499f2e.png)
 
 ![](https://icon-library.com/images/html-i![Uploading html-icon-1.png…]()
 con/html-icon-1.jpg)
