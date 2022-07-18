@@ -11,7 +11,9 @@ A Software Engineer Student at Holberton School
 Skills
 =============
 
-![html-icon-1](https://user-images.githubusercontent.com/98199846/179632051-6324168e-658c-4729-a209-38630f948b04.png) [![linkedin](https://user-images.githubusercontent.com/98199846/179632555-036566ad-be55-4ca2-b4ca-e6a16bc0f119.png)](https://www.linkedin.com/in/mateo-acevedo-v%C3%A9lez-b59833231/)
+
+![html-icon-1](https://user-images.githubusercontent.com/98199846/179632051-6324168e-658c-4729-a209-38630f948b04.png) [![linkedin](![linkedin](https://user-images.githubusercontent.com/98199846/179632844-cc2f50f5-4fed-4ef5-ac14-5cb0a82fa717.png)
+](https://www.linkedin.com/in/mateo-acevedo-v%C3%A9lez-b59833231/)
 
 ![](https://icon-library.com/images/html-i![Uploading html-icon-1.png…]()
 con/html-icon-1.jpg)
