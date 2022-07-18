@@ -11,12 +11,11 @@ A Software Engineer Student at Holberton School
 Skills
 =============
 
-![html-icon-1](https://user-images.githubusercontent.com/98199846/179632051-6324168e-658c-4729-a209-38630f948b04.png) ![linkedin](https://user-images.githubusercontent.com/98199846/179632146-f74225d0-92f1-4f9e-a298-3f4b5a499f2e.png)
+![html-icon-1](https://user-images.githubusercontent.com/98199846/179632051-6324168e-658c-4729-a209-38630f948b04.png) [![linkedin](https://user-images.githubusercontent.com/98199846/179632146-f74225d0-92f1-4f9e-a298-3f4b5a499f2e.png)](https://www.linkedin.com/in/mateo-acevedo-v%C3%A9lez-b59833231/)
 
 ![](https://icon-library.com/images/html-i![Uploading html-icon-1.png…]()
 con/html-icon-1.jpg)
 
 [![](https://cdn.iconscout.com/icon/free/png-256/github-3215409-2673827.png)](https://github.com/TEOACEVEDO)
 
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png)](https://www.linkedin.com/in/mateo-acevedo-v%C3%A9lez-b59833231/)
 
