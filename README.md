@@ -10,7 +10,11 @@ A Software Engineer Student at Holberton School
 
 Skills
 =============
-![](https://icon-library.com/images/html-icon/html-icon-1.jpg)
+
+![html-icon-1](https://user-images.githubusercontent.com/98199846/179632051-6324168e-658c-4729-a209-38630f948b04.png)
+
+![](https://icon-library.com/images/html-i![Uploading html-icon-1.png…]()
+con/html-icon-1.jpg)
 
 [![](https://cdn.iconscout.com/icon/free/png-256/github-3215409-2673827.png)](https://github.com/TEOACEVEDO)
 
