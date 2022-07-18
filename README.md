@@ -12,4 +12,4 @@ Skills
 =============
 ![](https://icon-library.com/images/html-icon/html-icon-1.jpg)
 
-[![](https://w7.pngwing.com/pngs/280/352/png-transparent-computer-icons-github-social-media-github-mammal-cat-like-mammal-carnivoran.png)](https://github.com/TEOACEVEDO)
+[![](https://cdn.iconscout.com/icon/free/png-256/github-3215409-2673827.png)](https://github.com/TEOACEVEDO)
