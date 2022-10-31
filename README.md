@@ -11,7 +11,7 @@ A Software Engineer Student at Holberton School
 Skills
 =============
 [![html-icon-1](https://user-images.githubusercontent.com/98199846/179632051-6324168e-658c-4729-a209-38630f948b04.png)](https://github.com/TEOACEVEDO/holbertonschool-AirBnB_clone/search?l=html)
-[![html-icon-1](![image](https://user-images.githubusercontent.com/98199846/199088043-c5dd8c87-1154-418c-876d-930a938db536.png))](https://github.com/TEOACEVEDO/holbertonschool-AirBnB_clone/search?l=html)
+[![html-icon-1](![image](https://user-images.githubusercontent.com/98199846/199088417-b6f7462e-6c8c-4bcf-a5c2-4cd5b797dc1f.jpg))](https://github.com/TEOACEVEDO/holbertonschool-AirBnB_clone/search?l=html)
 
 
 Connect with me 
